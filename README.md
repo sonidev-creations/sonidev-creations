@@ -1,16 +1,17 @@
-## Hi there 👋
+🌸 Hi, I'm Soni!
+Tech Enthusiast • AI/ML Learner • Full-Stack Developer
 
-<!--
-**sonidev-creations/sonidev-creations** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about building intelligent and user-friendly web applications
+🎓 B.Tech IT @ Nadar Saraswathi College of Engineering and Technology
+🤖 Exploring AI, ML, Deep Learning & Computer Vision
+🌐 Skilled in HTML, CSS, JavaScript, React, Node.js, Django, MongoDB, IoT
+🛠️ Worked on projects like Smart Irrigation, Sun Visibility Alert System & College Chatbot
+📈 Completed multiple certifications in TensorFlow, UI/UX, C#, Analytics, Web Development
 
-Here are some ideas to get you started:
+✨ A little about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌸 Pink addict
+💡 My hobby = thinking + creating new ideas
+🚀 A girl who never stops learning
+🔥 Loves turning ideas into real projects
+💭 Always exploring something new
