@@ -1,5 +1,5 @@
 # 🌸 Hi, I'm Soni!  
-### Tech Enthusiast • AI/ML Learner • Full-Stack Developer  
+### Tech Enthusiast • AI/ML Learner • Building Intelligent Applications  
 
 💻 Passionate about building intelligent and user-friendly web applications  
 🎓 B.Tech IT @ Nadar Saraswathi College of Engineering and Technology  
