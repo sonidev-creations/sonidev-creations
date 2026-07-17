@@ -28,7 +28,7 @@
 ```
  ╔══════════════════════════════════════════════════════════════════╗
  ║                                                                  ║
- ║   AI/ML Student Researcher focused on RAG and LLM Systems       ║
+ ║   AI/ML Student Researcher focused on RAG and LLM Systems        ║
  ║   Building intelligent systems with Generative AI                ║
  ║   Turning research concepts into working prototypes              ║
  ║                                                                  ║
