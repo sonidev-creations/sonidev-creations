@@ -1,121 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SONI&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20Researcher&descAlignY=62&descSize=18" width="100%"/>
+<!-- ═══════════════════ HEADER ═══════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1200&color=1A1A1A&center=true&vCenter=true&width=680&lines=Exploring+RAG+%26+LLM+Systems;Generative+AI+Enthusiast;B.Tech+Information+Technology;Future%3A+Research+%26+Invention" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=SONI&fontSize=72&fontColor=e0e0e0&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Student%20Researcher&descAlignY=58&descSize=20&descColor=8892b0" width="100%"/>
+
+<!-- ═══════════════════ TYPING SVG ═══════════════════ -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8892B0&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A6+Building+RAG+%26+LLM+Systems;%E2%9C%A6+Generative+AI+%7C+B.Tech+Information+Technology;%E2%9C%A6+Future%3A+Research+%26+Invention;%E2%9C%A6+Becoming+an+Unsolvable+Solver" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Location-India-6A1B9A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Open%20to-Research%20%26%20Collaboration-C2185B?style=flat-square"/>
-<img src="https://komarev.com/ghpvc/?username=sonidev-creations&color=6A1B9A&style=flat-square&label=Profile+Views"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%8D_Location-India-0d1117?style=for-the-badge&labelColor=0d1117&color=1a1a2e"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%94%AC_Open_to-Research_&_Collaboration-0d1117?style=for-the-badge&labelColor=0d1117&color=1a1a2e"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=sonidev-creations&color=1a1a2e&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
 <br>
 
-## About
+<!-- ═══════════════════ DIVIDER ═══════════════════ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-I'm an **AI/ML Student Researcher** focused on **Retrieval-Augmented Generation (RAG)** and **Large Language Model (LLM)** systems, with a broader interest in Generative AI and applied machine learning research.
+## &nbsp; ⚡ About
 
-**Applied experience through research and internship work:**
+```
+ ╔══════════════════════════════════════════════════════════════════╗
+ ║                                                                  ║
+ ║   AI/ML Student Researcher focused on RAG and LLM Systems       ║
+ ║   Building intelligent systems with Generative AI                ║
+ ║   Turning research concepts into working prototypes              ║
+ ║                                                                  ║
+ ╚══════════════════════════════════════════════════════════════════╝
+```
 
-- Designed and evaluated a full **RAG pipeline** covering chunking strategies, embedding models, vector indexing (FAISS HNSW), hybrid retrieval, and top-k selection
-- Built a **ground-truth evaluation harness** measuring Recall@10, MRR, nDCG@10, Context Precision, and Latency across pipeline configurations
-- Worked with **local LLM inference** using Ollama and open-source models (Llama 3.2, Qwen embeddings) — no cloud API dependency
-- Contributed to **AI training data pipelines** — cleaning, structuring, and annotating datasets for downstream model training and evaluation
-- Applied **Python + Pandas + regex** to build reproducible, non-destructive data-cleaning scripts at scale (500+ records)
-- Learned to combine **automated pipelines with manual QA** — identifying script-level bugs and defining ground-truth for AI systems
+> **Applied experience through research and internship work:**
 
-<br>
-
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**AI / ML / RAG**
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-4B0082?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChromaDB-6A1B9A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-</p>
-
-</td>
-<td valign="top" width="33%">
-
-**Web Development**
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-</p>
-
-</td>
-<td valign="top" width="33%">
-
-**Tools & Platforms**
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
+- 🔬 Designed and evaluated a full **RAG pipeline** — chunking strategies, embedding models, vector indexing (FAISS HNSW), hybrid retrieval, and top-k selection
+- 📊 Built a **ground-truth evaluation harness** measuring Recall@10, MRR, nDCG@10, Context Precision, and Latency across pipeline configurations
+- 🧠 Worked with **local LLM inference** using Ollama and open-source models (Llama 3.2, Qwen embeddings) — no cloud API dependency
+- 🗂️ Contributed to **AI training data pipelines** — cleaning, structuring, and annotating datasets for downstream model training
+- 🐍 Applied **Python + Pandas + regex** to build reproducible data-cleaning scripts at scale (500+ records)
+- ✅ Learned to combine **automated pipelines with manual QA** — identifying bugs and defining ground-truth for AI systems
 
 <br>
 
-## GitHub Stats
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## &nbsp; 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sonidev-creations&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=c2185b&icon_color=c2185b&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonidev-creations&theme=radical&hide_border=true&background=1a1b27&ring=c2185b&fire=c2185b&currStreakLabel=c2185b" width="48%"/>
+| **AI / ML / RAG** | **Web Development** | **Tools & Platforms** |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=8892b0) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=8892b0) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=8892b0) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=8892b0) ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=8892b0) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=flat-square&logoColor=8892b0) ![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logoColor=8892b0) ![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square&logoColor=8892b0) ![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logoColor=8892b0) ![scikit-learn](https://img.shields.io/badge/sklearn-0d1117?style=flat-square&logo=scikitlearn&logoColor=8892b0) ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=8892b0) ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=8892b0) ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=8892b0) | ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=8892b0) ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=8892b0) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=8892b0) ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=8892b0) ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=8892b0) ![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=8892b0) ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=8892b0) | ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=8892b0) ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=8892b0) ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=8892b0) ![IoT](https://img.shields.io/badge/IoT-0d1117?style=flat-square&logo=raspberrypi&logoColor=8892b0) ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=8892b0) ![Markdown](https://img.shields.io/badge/Markdown-0d1117?style=flat-square&logo=markdown&logoColor=8892b0) |
 
 </div>
 
 <br>
 
-## Beyond Code
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-- Curious by nature — I learn best by asking why something works, not just how
-- Design-conscious — clean UI, clean code, and clean thinking matter to me equally
-- Enjoy turning research concepts into working, demonstrable prototypes
-- Value quiet, deep work over noise — most of my best ideas come from thinking, not scrolling
-
-<br>
-
-## Connect
+## &nbsp; 📈 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/sonidev-creations"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:iamsoni.btech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://github-readme-stats.vercel.app/api?username=sonidev-creations&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8892b0&icon_color=8892b0&text_color=c9d1d9&ring_color=1a1a2e" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonidev-creations&hide_border=true&background=0d1117&ring=8892b0&fire=c9d1d9&currStreakLabel=8892b0&sideLabels=8892b0&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=4a4a5a" width="48%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%"/>
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonidev-creations&bg_color=0d1117&color=8892b0&line=8892b0&point=c9d1d9&area=true&area_color=1a1a2e&hide_border=true" width="96%"/>
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## &nbsp; 💭 Beyond Code
+
+```
+✦ Curious by nature — I learn best by asking why, not just how
+✦ Design-conscious — clean UI, clean code, clean thinking
+✦ Turning research concepts into working prototypes
+✦ Most of my best ideas come from deep thinking, not scrolling
+```
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## &nbsp; 🔗 Connect
+
+<div align="center">
+
+<a href="https://github.com/sonidev-creations"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=8892b0"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sonipandian/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=8892b0"/></a>
+&nbsp;&nbsp;
+<a href="mailto:iamsoni.btech@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=8892b0"/></a>
+
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Becoming%20an%20Unsolvable%20Solver&author=Soni" />
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
