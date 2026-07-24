@@ -2,11 +2,11 @@
 
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=SONI&fontSize=72&fontColor=e0e0e0&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Student%20Researcher&descAlignY=58&descSize=20&descColor=8892b0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=SONI&fontSize=72&fontColor=e0e0e0&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Builder%20%26%20Researcher&descAlignY=58&descSize=20&descColor=8892b0" width="100%"/>
 
 <!-- ═══════════════════ TYPING SVG ═══════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8892B0&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A6+Building+RAG+%26+LLM+Systems;%E2%9C%A6+Generative+AI+%7C+B.Tech+Information+Technology;%E2%9C%A6+Future%3A+Research+%26+Invention;%E2%9C%A6+Becoming+an+Unsolvable+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=8892B0&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%E2%9C%A6+Building+RAG+%26+LLM+Systems;%E2%9C%A6+Generative+AI+%7C+B.Tech+Information+Technology;%E2%9C%A6+Future%3A+Research+%26+Invention;%E2%9C%A6+Becoming+a+Solver+of+the+Unsolvable" alt="Typing SVG" />
 
 <br>
 
@@ -18,33 +18,26 @@
 
 </div>
 
-<br>
-
-<!-- ═══════════════════ DIVIDER ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## &nbsp; ⚡ About
 
-```
- ╔══════════════════════════════════════════════════════════════════╗
- ║                                                                  ║
- ║   AI/ML Student Researcher focused on RAG and LLM Systems        ║
- ║   Building intelligent systems with Generative AI                ║
- ║   Turning research concepts into working prototypes              ║
- ║                                                                  ║
- ╚══════════════════════════════════════════════════════════════════╝
+```bash
+$ whoami
+> AI/ML Builder & Researcher
+
+$ current_focus --list
+> Building intelligent systems with Generative AI
+> Turning research concepts into working prototypes
 ```
 
-> **Applied experience through research and internship work:**
-
+**Applied experience through research and internship work:**
 - 🔬 Designed and evaluated a full **RAG pipeline** — chunking strategies, embedding models, vector indexing (FAISS HNSW), hybrid retrieval, and top-k selection
 - 📊 Built a **ground-truth evaluation harness** measuring Recall@10, MRR, nDCG@10, Context Precision, and Latency across pipeline configurations
 - 🧠 Worked with **local LLM inference** using Ollama and open-source models (Llama 3.2, Qwen embeddings) — no cloud API dependency
 - 🗂️ Contributed to **AI training data pipelines** — cleaning, structuring, and annotating datasets for downstream model training
 - 🐍 Applied **Python + Pandas + regex** to build reproducible data-cleaning scripts at scale (500+ records)
 - ✅ Learned to combine **automated pipelines with manual QA** — identifying bugs and defining ground-truth for AI systems
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -58,40 +51,25 @@
 
 </div>
 
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## &nbsp; 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sonidev-creations&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8892b0&icon_color=8892b0&text_color=c9d1d9&ring_color=1a1a2e" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sonidev-creations&hide_border=true&background=0d1117&ring=8892b0&fire=c9d1d9&currStreakLabel=8892b0&sideLabels=8892b0&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=4a4a5a" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sonidev-creations&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8892b0&icon_color=8892b0&text_color=c9d1d9&ring_color=1a1a2e" width="65%"/>
 
 </div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonidev-creations&bg_color=0d1117&color=8892b0&line=8892b0&point=c9d1d9&area=true&area_color=1a1a2e&hide_border=true" width="96%"/>
-</div>
-
-<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## &nbsp; 💭 Beyond Code
-
 ```
 ✦ Curious by nature — I learn best by asking why, not just how
 ✦ Design-conscious — clean UI, clean code, clean thinking
 ✦ Turning research concepts into working prototypes
 ✦ Most of my best ideas come from deep thinking, not scrolling
 ```
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## &nbsp; 🔗 Connect
@@ -106,10 +84,8 @@
 
 <br><br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Becoming%20an%20Unsolvable%20Solver&author=Soni" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Becoming%20a%20%22Solver%20of%20the%20Unsolvable%22&author=Soni" />
 
 </div>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
