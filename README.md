@@ -22,14 +22,6 @@
 
 ## &nbsp; ⚡ About
 
-```bash
-$ whoami
-> AI/ML Builder & Researcher
-
-$ status
-> online — open to research & collaboration_
-```
-
 Final-year B.Tech IT student building AI systems that work — from RAG pipelines and LLM evaluation to full-stack applications. Passionate about Generative AI, clean code, and turning research into shipped products. Always learning, always building.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -45,14 +37,6 @@ Final-year B.Tech IT student building AI systems that work — from RAG pipeline
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## &nbsp; 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sonidev-creations&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8892b0&icon_color=8892b0&text_color=c9d1d9&ring_color=1a1a2e" width="65%"/>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
