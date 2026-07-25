@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=SONI&fontSize=72&fontColor=e0e0e0&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Builder%20%26%20Researcher&descAlignY=58&descSize=20&descColor=8892b0" width="100%"/>
+<img src="assets/soni_banner.svg" width="100%"/>
 
 <!-- ═══════════════════ TYPING SVG ═══════════════════ -->
 
@@ -26,18 +26,15 @@
 $ whoami
 > AI/ML Builder & Researcher
 
-$ current_focus --list
-> Building intelligent systems with Generative AI
-> Turning research concepts into working prototypes
+$ status
+> online — open to research & collaboration_
 ```
 
-**Applied experience through research and internship work:**
-- 🔬 Designed and evaluated a full **RAG pipeline** — chunking strategies, embedding models, vector indexing (FAISS HNSW), hybrid retrieval, and top-k selection
-- 📊 Built a **ground-truth evaluation harness** measuring Recall@10, MRR, nDCG@10, Context Precision, and Latency across pipeline configurations
-- 🧠 Worked with **local LLM inference** using Ollama and open-source models (Llama 3.2, Qwen embeddings) — no cloud API dependency
-- 🗂️ Contributed to **AI training data pipelines** — cleaning, structuring, and annotating datasets for downstream model training
-- 🐍 Applied **Python + Pandas + regex** to build reproducible data-cleaning scripts at scale (500+ records)
-- ✅ Learned to combine **automated pipelines with manual QA** — identifying bugs and defining ground-truth for AI systems
+I'm a final-year B.Tech IT student who builds AI-powered applications end to end — from RAG pipelines and LLM evaluation to full-stack web apps that ship. My core interest is Generative AI: how retrieval, embeddings, and language models come together to solve real problems, not just demo well.
+
+Day to day, that means Python, TensorFlow, and PyTorch on the AI side; React, FastAPI, and Django on the product side; and a genuine habit of digging until something actually works, not just runs once.
+
+I care about clean systems as much as clever ones — reproducible pipelines, tested assumptions, and evaluation over vibes. Long-term, I want to be in AI research and invention, building things that didn't exist before.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -47,7 +44,7 @@ $ current_focus --list
 
 | **AI / ML / RAG** | **Web Development** | **Tools & Platforms** |
 |:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=8892b0) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=8892b0) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=8892b0) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=8892b0) ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=8892b0) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=flat-square&logoColor=8892b0) ![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logoColor=8892b0) ![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square&logoColor=8892b0) ![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logoColor=8892b0) ![scikit-learn](https://img.shields.io/badge/sklearn-0d1117?style=flat-square&logo=scikitlearn&logoColor=8892b0) ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=8892b0) ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=8892b0) ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=8892b0) | ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=8892b0) ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=8892b0) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=8892b0) ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=8892b0) ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=8892b0) ![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=8892b0) ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=8892b0) | ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=8892b0) ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=8892b0) ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=8892b0) ![IoT](https://img.shields.io/badge/IoT-0d1117?style=flat-square&logo=raspberrypi&logoColor=8892b0) ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=8892b0) ![Markdown](https://img.shields.io/badge/Markdown-0d1117?style=flat-square&logo=markdown&logoColor=8892b0) |
+| ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=8892b0) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=8892b0) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=8892b0) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=8892b0) ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=8892b0) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0d1117?style=flat-square&logoColor=8892b0) ![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=flat-square&logoColor=8892b0) ![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square&logoColor=8892b0) ![Ollama](https://img.shields.io/badge/Ollama-0d1117?style=flat-square&logoColor=8892b0) ![scikit-learn](https://img.shields.io/badge/sklearn-0d1117?style=flat-square&logo=scikitlearn&logoColor=8892b0) ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=8892b0) ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=8892b0) ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=flat-square&logo=numpy&logoColor=8892b0) | ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=8892b0) ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=8892b0) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=8892b0) ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=8892b0) ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=8892b0) ![Django](https://img.shields.io/badge/Django-0d1117?style=flat-square&logo=django&logoColor=8892b0) ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=8892b0) ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=8892b0) ![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=flat-square&logo=sqlite&logoColor=8892b0) | ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=8892b0) ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=8892b0) ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=8892b0) ![IoT](https://img.shields.io/badge/IoT-0d1117?style=flat-square&logo=raspberrypi&logoColor=8892b0) ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=8892b0) ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=8892b0) ![Markdown](https://img.shields.io/badge/Markdown-0d1117?style=flat-square&logo=markdown&logoColor=8892b0) |
 
 </div>
 
