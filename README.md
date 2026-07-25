@@ -30,11 +30,7 @@ $ status
 > online — open to research & collaboration_
 ```
 
-I'm a final-year B.Tech IT student who builds AI-powered applications end to end — from RAG pipelines and LLM evaluation to full-stack web apps that ship. My core interest is Generative AI: how retrieval, embeddings, and language models come together to solve real problems, not just demo well.
-
-Day to day, that means Python, TensorFlow, and PyTorch on the AI side; React, FastAPI, and Django on the product side; and a genuine habit of digging until something actually works, not just runs once.
-
-I care about clean systems as much as clever ones — reproducible pipelines, tested assumptions, and evaluation over vibes. Long-term, I want to be in AI research and invention, building things that didn't exist before.
+Final-year B.Tech IT student building AI systems that work — from RAG pipelines and LLM evaluation to full-stack applications. Passionate about Generative AI, clean code, and turning research into shipped products. Always learning, always building.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
